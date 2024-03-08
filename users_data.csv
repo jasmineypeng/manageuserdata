@@ -1,0 +1,6 @@
+Id, Role, Username, Password, Sign - in datetime, Sign out datetime, First Name, Last Name, Address, City, State, Zip, Phone, Email
+1001,guest,guest,welcome,1/29/24 18:30,1/29/24 18:30,guest,guest,200 Cherry Blvd,Dublin,CA,94560,510-7422300,guest@gmail.com
+1002,admin,admin,welcome1,1/29/24 17:10,1/29/24 17:10,admin,college,22600 Mission Street,Dublin,CA,94539,510-659-6000,admin@gmail.com
+1003,student,john,mypassword,2/24/24 20:59,2/24/24 20:59,John,Doe,1300 Mission Street,Dublin,CA,94539,510-659-6000,jdoe@ucla.student.edu
+1004,student,jpeng,admin,2/24/24 23:45,2/24/24 23:45,Jasmine,Peng,360 Cherry Road,Dublin,CA,90262,510-333-2121,jpeng19@gmail.com
+1005,student,john,pass,2/24/24 23:45,2/24/24 23:48,John,Jack,120 Stonedrive Way,Dublin,CA,94539,510-622-1333,john@ucla.student.edu
